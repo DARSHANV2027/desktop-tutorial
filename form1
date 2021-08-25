@@ -1,0 +1,13 @@
+<html>
+<head>
+<title> Address form </title>
+</head>
+<body>
+  <form>
+<label> ADD NEW ADDRESS </label>
+< input type="location" name="USE MY CURRENT LOCATION" /> <br/>
+< input type = "text name="Name" />
+
+</form>
+</body>
+</html>
