@@ -1,0 +1,11 @@
+#example1 {
+    background: url(DP.JPG);
+    background-repeat: no-repeat;
+    background-size: auto;
+  }
+  
+  #example2 {
+    background: url(DP.JPG);
+    background-repeat: no-repeat;
+    background-size: 300px 100px;
+  }

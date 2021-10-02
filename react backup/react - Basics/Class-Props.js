@@ -1,10 +1,10 @@
 import React from "react";
 class Pros extends React.Component{
     Name='Darshan'
-    Age = '23'
+    Age = 23
     City = 'Davanagere'
     render(){
-        return <div> {this.Pros.Name}</div>
+        return <div> Name = {this.Name}</div>
     }
 }
 export default Pros;
