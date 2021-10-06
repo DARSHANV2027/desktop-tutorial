@@ -1,7 +1,7 @@
-#example1 {
+.abc{
     background: url(DP.JPG);
     background-repeat: no-repeat;
-    background-size: auto;
+    background-size: 100%;
   }
   
   #example2 {
